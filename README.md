@@ -1,2 +1,2 @@
 # notebook_test
-exercise for IBMs Data Science Course
+exercise for IBM's Data Science Course
